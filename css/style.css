@@ -1,0 +1,57 @@
+.menu{
+    width: 50%;
+    height: 30px;
+    display: block;
+    display: flex;
+    margin-left: 42%;
+    
+}
+.a1{
+    text-decoration: none;
+    display: block;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 200px;
+    color: brown;
+    font-size: 30px;
+    transition: 2s;
+    font-family: 'Playfair Display', serif;
+    
+}
+body{
+    background-image: url(/img/be2067b0abb5f38a.png);
+    background-size: cover;
+    position: fixed;
+}
+.a1:hover{
+    color: darkmagenta;
+    transition: 2s;
+}
+.p1{
+    font-family: 'Playfair Display', serif;
+}
+.donat_menu1{
+    
+    display: block;
+    display: flex;
+    margin-top: 150px;
+    margin-left: 45%;
+    width: 1000px;
+    
+}
+.donat{
+    display: flex;
+    display: block;
+    margin-left: 120px;
+}
+.p_donat1{
+    font-size: 30px;
+    transition: 2s;
+    color: darkorange;
+    font-family: 'Bungee Outline', cursive;
+    text-decoration: none;
+}
+.p_donat1:hover{
+    transition: 2s;
+    color: aqua;
+}
